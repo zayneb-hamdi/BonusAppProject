@@ -50,15 +50,12 @@ cd ../frontend
 npm install  
 npm start
 ## GUI:
+![image](https://github.com/user-attachments/assets/efff992d-4f79-4932-8c3d-c6643abe4df3)
+![image](https://github.com/user-attachments/assets/988c1579-2cff-4ec4-aec4-ad208d57a96a)
+![image](https://github.com/user-attachments/assets/6321f538-ddfa-433c-a084-1652b37c1110)
+![image](https://github.com/user-attachments/assets/0a990432-3017-4c8d-8eb0-a3355ec541f4)
+![image](https://github.com/user-attachments/assets/52a5bb9d-0b99-40d7-8ea8-8331a0402f7d)
 
-![image](https://github.com/user-attachments/assets/4d59ac35-26f1-451f-a6b8-d93c626252da)
 
-![image](https://github.com/user-attachments/assets/9ef2af6e-f943-4bb7-af34-3ba3dd5f51bf)
-
-![image](https://github.com/user-attachments/assets/c67b0a0e-3b43-4c0a-89e7-c620f1da8350)
-
-![image](https://github.com/user-attachments/assets/dfc967e9-cde6-48e7-b8ae-179d1c7ebe00)
-
-![image](https://github.com/user-attachments/assets/b2888ef5-df12-4e31-953e-caf845324344)
  ## Author:
  zayneb hamdi
