@@ -56,6 +56,3 @@ npm start
 ![image](https://github.com/user-attachments/assets/0a990432-3017-4c8d-8eb0-a3355ec541f4)
 ![image](https://github.com/user-attachments/assets/52a5bb9d-0b99-40d7-8ea8-8331a0402f7d)
 
-
- ## Author:
- zayneb hamdi
