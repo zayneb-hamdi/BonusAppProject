@@ -48,7 +48,7 @@ cd BonusAppProject/backend
 ### 💻 Frontend (React):
 cd ../frontend  
 npm install  
-npm start
+npm run dev  
 ## GUI:
 ![image](https://github.com/user-attachments/assets/efff992d-4f79-4932-8c3d-c6643abe4df3)
 ![image](https://github.com/user-attachments/assets/988c1579-2cff-4ec4-aec4-ad208d57a96a)
